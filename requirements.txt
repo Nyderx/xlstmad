@@ -1,4 +1,1 @@
-pandas==2.2.3
-xlstm==2.0.3
-TSB_AD==1.5
-pysdtw==0.0.5
+xlstm==2.0.5
