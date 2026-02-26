@@ -1,1 +1,2 @@
 xlstm==2.0.5
+lightning==2.6.1
