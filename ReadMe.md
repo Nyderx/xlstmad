@@ -1,7 +1,8 @@
 # xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection
 
 This repository contains the improved official implementation of xLSTMAD, the first anomaly detection framework built
-upon a full encoder–decoder xLSTM architecture for multivariate time series (see [paper](https://arxiv.org/pdf/2506.22837)).
+upon a full encoder–decoder xLSTM architecture for multivariate time series (see [paper](https://arxiv.org/abs/2506.22837)).
+xLSTMAD was published at the ICDM 2025 (IEEE International Conference on Data Mining).
 
 List of changes in comparison to the original version:
 
@@ -14,17 +15,15 @@ The original implementation, along with the experimental setup for TSB-AD-M is a
 The paper is available here: [https://arxiv.org/pdf/2506.22837](https://arxiv.org/pdf/2506.22837).
 When using, please cite:
 ```
-    @INPROCEEDINGS {xlstmad,
-        author = {Faber, Kamil and Pietron, Marcin and Zurek, Dominik and Corizzo, Roberto},
-        booktitle = { 2025 IEEE International Conference on Data Mining (ICDM) },
-        title = {{ xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection }},
-        year = {2025},
-        volume = {},
-        ISSN = {},
-        pages = {247-256},
-        doi = {10.1109/ICDM65498.2025.00032},
-        publisher = {IEEE Computer Society}
-    }
+   @INPROCEEDINGS{xlstmad,
+    author={Faber, Kamil and Pietron, Marcin and Zurek, Dominik and Corizzo, Roberto},
+    booktitle={2025 IEEE International Conference on Data Mining (ICDM)},
+    title={xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection},
+    year={2025},
+    volume={},
+    number={},
+    pages={247-256},
+    doi={10.1109/ICDM65498.2025.00032}}
 ```
 
 ## Installation
