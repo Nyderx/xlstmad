@@ -1,4 +1,4 @@
-# xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection
+# xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection \[ICDM 2025\]
 
 This repository contains the improved official implementation of xLSTMAD, the first anomaly detection framework built
 upon a full encoder–decoder xLSTM architecture for multivariate time series (see [paper](https://arxiv.org/abs/2506.22837)).
